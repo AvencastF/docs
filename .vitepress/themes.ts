@@ -426,7 +426,26 @@ export const community: ThemeInfo[] = [
       'light',
     ],
   },
-  // Add yours here!
+  {
+    id: 'slidev-theme-hep',
+    name: 'HEP',
+    description: 'Academic version for High Energy Phyiscs',
+    author: {
+      name: 'Yulei ZHANG',
+      link: 'https://github.com/AvencastF',
+    },
+    repo: 'https://github.com/AvencastF/slidev-theme-hep',
+    previews: [
+      'https://cdn.jsdelivr.net/gh/avencastf/slidev-theme-hep/screenshot/001.png',
+      'https://cdn.jsdelivr.net/gh/avencastf/slidev-theme-hep/screenshot/004.png',
+      'https://cdn.jsdelivr.net/gh/avencastf/slidev-theme-hep/screenshot/006.png',
+      'https://cdn.jsdelivr.net/gh/avencastf/slidev-theme-hep/screenshot/008.png',
+    ],
+    tags: [
+      'light',
+    ],
+  },
+    // Add yours here!
   {
     id: '',
     link: 'https://github.com/slidevjs/docs/edit/main/.vitepress/themes.ts',
